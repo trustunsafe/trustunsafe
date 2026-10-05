@@ -19,7 +19,7 @@ I’m always up for collaborating, brainstorming, or just chatting about tech, l
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2022 - To: 02 October 2026
+From: 12 September 2022 - To: 03 October 2026
 
 Total Time: 2,386 hrs 55 mins
 
